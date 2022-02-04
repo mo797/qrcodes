@@ -19,3 +19,4 @@ def read_csv(filepath: str) -> None:
 
 if __name__ == '__main__':
 	read_csv(CSV_FILE)
+	print('done')
